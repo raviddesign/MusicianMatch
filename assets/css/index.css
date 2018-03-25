@@ -1,0 +1,64 @@
+body{
+	background-color:#333333;
+	color:#FFFFFF;
+}
+
+#home-section{
+background:url('https://images.pexels.com/photos/374777/pexels-photo-374777.jpeg?w=940&h=650&auto=compress&cs=tinysrgb') no-repeat;
+  background-size: cover;
+  background-attachment: fixed;
+  min-height: 700px;
+}
+
+.dark-overlay{
+background-color: rgba(0,0,0,0.7);
+position:absolute;
+top:0;
+width:100%;
+min-height: 700px;
+}
+
+.home-inner{
+    padding-top:150px;
+  }
+
+  .card-form{
+    opacity:0.8;
+  }
+
+  .navbar{
+  	opacity: 0.8;
+  }
+
+  #home-section .fa{
+    color: #333333;
+    background: #FFFFFF;
+    padding:4px;
+    border-radius: 5px;
+    font-size: 30px;
+  }
+
+  #explore-section .fa{
+    color:#FFFFFF;
+    background: #333333;
+    padding:4px;
+    border-radius:5px;
+    font-size:30px;
+  }
+
+  #create-section .fa{
+  	 color: #333333;
+    background: #FFFFFF;
+    padding:4px;
+    border-radius: 5px;
+    font-size: 30px;
+  }
+
+  #share-section .fa{
+  	color:#FFFFFF;
+    background: #333333;
+    padding:4px;
+    border-radius:5px;
+    font-size:30px;
+
+  }
