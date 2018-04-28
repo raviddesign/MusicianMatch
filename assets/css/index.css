@@ -8,6 +8,7 @@ background:url('https://images.pexels.com/photos/374777/pexels-photo-374777.jpeg
   background-size: cover;
   background-attachment: fixed;
   min-height: 700px;
+  background-position: center;
 }
 
 .dark-overlay{
